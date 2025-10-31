@@ -155,7 +155,7 @@ Bastion Host — это специально выделенный сервер �
 1. db-server
 1. bastion-host
 
-![Web Server](screenshots\web-server.png)
+![Web Server](screenshots/web-server.png)
 
 ## 8. Проверка работы
 
